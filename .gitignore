@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+.idea/*
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+app/src/main/res/raw/third_party_license_metadata
+app/src/main/res/raw/third_party_licenses
+
+# not ignore
+!.idea/codeStyleSettings.xml
+!.idea/icon.png
+!.idea/icon_dark.png
