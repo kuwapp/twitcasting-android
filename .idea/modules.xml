@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TwitcastingViewer.iml" filepath="$PROJECT_DIR$/TwitcastingViewer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/module/api/api.iml" filepath="$PROJECT_DIR$/module/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/api/api.iml" filepath="$PROJECT_DIR$/modules/api/api.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

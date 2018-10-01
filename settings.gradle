@@ -1,6 +1,6 @@
-include ':app', ':api'
+include ':app'
 
-def modulesRopotDir = new File('modules')
+def modulesRootDir = new File('modules')
 
 include ':api'
-project(':api').projectDir = new File(modulesRopotDir, 'api')
+project(':api').projectDir = new File(modulesRootDir, 'api')
