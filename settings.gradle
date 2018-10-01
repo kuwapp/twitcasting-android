@@ -1,1 +1,6 @@
-include ':app'
+include ':app', ':api'
+
+def modulesRopotDir = new File('modules')
+
+include ':api'
+project(':api').projectDir = new File(modulesRopotDir, 'api')
